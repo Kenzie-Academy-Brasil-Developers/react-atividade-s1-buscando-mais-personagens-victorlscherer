@@ -1,0 +1,13 @@
+.containerCharacters {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+}
+
+@media (max-width: 471px) {
+  .containerCharacters {
+    justify-content: center;
+  }
+}

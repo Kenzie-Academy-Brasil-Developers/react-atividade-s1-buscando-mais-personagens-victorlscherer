@@ -1,0 +1,13 @@
+.charCard {
+  width: 200px;
+  max-height: 240px;
+  font-size: 15px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin: 10px;
+}
+
+.charCard img {
+  width: 100px;
+}
